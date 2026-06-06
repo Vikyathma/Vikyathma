@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vikyath 👋
 
-<!--
-**Vikyathma/Vikyathma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I am passionate about building web applications and learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- Servlets
+- JSP
+- JDBC
+- React.js
+- JavaScript
+- MySQL
+- Git & GitHub
+
+### Currently Learning
+- Golang
+- PostgreSQL
+- Docker
+
+### Contact
+LinkedIn: Your LinkedIn URL
+Email: Your Email
+
+### Open To Work
+Software Developer | Full Stack Developer | Backend Developer
