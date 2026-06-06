@@ -20,8 +20,8 @@ I am passionate about building web applications and learning modern technologies
 - Docker
 
 ### Contact
-LinkedIn: Your LinkedIn URL
-Email: Your Email
+LinkedIn: www.linkedin.com/in/vikyath-m-a-522796343
+Email: vikyathma@gmail.com
 
 ### Open To Work
 Software Developer | Full Stack Developer | Backend Developer
