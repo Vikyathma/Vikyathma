@@ -22,6 +22,7 @@ I am passionate about building web applications and learning modern technologies
 ### Contact
 LinkedIn: www.linkedin.com/in/vikyath-m-a-522796343
 Email: vikyathma@gmail.com
+Resume : https://drive.google.com/file/d/1F2-Hcrjv3C9MjBESzjAEME2PMFyU2TKu/view?usp=drivesdk
 
 ### Open To Work
 Software Developer | Full Stack Developer | Backend Developer
